@@ -25,4 +25,4 @@ Android App Development using Android Studio Project for The Swastika. It is edi
     MainActivity
     ChangePasswordActivity
 
-https://user-images.githubusercontent.com/78255973/138583747-5ceab272-7a56-413f-a464-54753cfe1eb1.mp4
+https://user-images.githubusercontent.com/78255973/138583884-68811c4a-0b28-49ed-9b28-78a1bc044ca2.mp4
