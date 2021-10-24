@@ -24,3 +24,5 @@ Android App Development using Android Studio Project for The Swastika. It is edi
 # This application need two activities:-
     MainActivity
     ChangePasswordActivity
+
+https://user-images.githubusercontent.com/78255973/138583747-5ceab272-7a56-413f-a464-54753cfe1eb1.mp4
