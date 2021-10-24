@@ -16,9 +16,8 @@ Android App Development using Android Studio Project for The Swastika. It is edi
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.CAMERA"/>
-    
-    and 
-    
+  
+# Add this line to in AndroidManifest application tag below all activities
     <activity android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
             android:theme="@style/Base.Theme.AppCompat"/>
             
