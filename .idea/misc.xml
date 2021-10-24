@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/EditProfile/app/src/main/res/drawable/camera_button.xml" value="0.17777777777777778" />
+        <entry key="..\:/EditProfile/app/src/main/res/drawable/circle.xml" value="0.17777777777777778" />
+        <entry key="..\:/EditProfile/app/src/main/res/drawable/ic_arrow_back.xml" value="0.17777777777777778" />
+        <entry key="..\:/EditProfile/app/src/main/res/layout/activity_change_password.xml" value="0.10116731517509728" />
+        <entry key="..\:/EditProfile/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/EditProfile/app/src/main/res/layout/list_item.xml" value="0.20244565217391305" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>
